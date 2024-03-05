@@ -1,0 +1,12 @@
+.ieee{
+    padding: 20px;
+    width: 400px;
+    background-color: #eee;
+    margin: auto;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 0.6px 0.6px 0 blue,
+                0.9px 0.9px 0 red,
+                1.5px 1.5px 0 greenyellow;
+  }
